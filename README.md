@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+starting my tasks to be a future full stack developer
+
+
 <!--
 **aitorbarroeta/aitorbarroeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
